@@ -54,4 +54,5 @@ I believe no one is perfect (including me 😅), but I’m always ready to **lea
 
 ⭐ *"Learning never stops — every line of code is a step toward progress."*  
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SouvikDutta)
+![Profile Views](https://komarev.com/ghpvc/?username=s7d4007&color=blue&style=flat-square)
+
