@@ -26,15 +26,28 @@ I believe no one is perfect (including me 😅), but I’m always ready to **lea
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/-Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-512BD4?style=for-the-badge&logo=visual-studio&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+
+![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-FF8C00?style=for-the-badge&logo=powerbi&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+![Artificial Intelligence](https://img.shields.io/badge/-AI-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
+![Gradio](https://img.shields.io/badge/-Gradio-FF6F61?style=for-the-badge&logo=gradio&logoColor=white)
+![SEO](https://img.shields.io/badge/-SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 ---
 
