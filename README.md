@@ -38,13 +38,6 @@ I believe no one is perfect (including me 😅), but I’m always ready to **lea
 
 ---
 
-## 📊 GitHub Stats
-
-![Souvik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SouvikDutta&show_icons=true&theme=radical&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SouvikDutta&layout=compact&theme=radical&hide=html,css)
-
----
-
 ## ✨ Motivation / Philosophy
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Keep+Learning+and+Growing+%F0%9F%92%BB;Every+Line+of+Code+Matters+%F0%9F%92%AA;Open+to+Collaboration+%F0%9F%91%8D&font=Fira+Code&pause=1000&color=FF69B4&width=600&height=50)
 
