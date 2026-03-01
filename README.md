@@ -1,7 +1,4 @@
-# Hey There ! Myself :
-
-<img width="1294" height="576" alt="Name" src="https://github.com/user-attachments/assets/f47072af-6fe7-478a-9957-1d166eed5392" />
-
+# Hey There ! Myself Souvik Dutta
 
 🎓 I'm a passionate **Computer Science student** and **developer** exploring the exciting worlds of **Artificial Intelligence** and **Software Development**.  
 
