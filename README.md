@@ -64,7 +64,7 @@ I believe no one is perfect (including me 😅), but I’m always ready to **lea
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/souvik-dutta-244304307)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/souvik-dutta-7)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://s7d4007.github.io/Portfolio/)
 
 ---
