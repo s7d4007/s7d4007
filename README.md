@@ -154,6 +154,25 @@ https://s7d4007.github.io/souvik-dutta-portfolio/
 
 ---
 
+## 💼 Experience & Leadership
+
+<table>
+<tr>
+<td width="90" align="center">
+  <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="70" alt="GeeksforGeeks Logo"/>
+</td>
+<td>
+  <strong>Campus Mantri | GeeksforGeeks</strong><br>
+  <sub>January 2026 – June 2026</sub><br><br>
+  Represented GeeksforGeeks as a Campus Mantri and contributed to technical community engagement on campus.
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
 ## 👥 Community & Leadership
 
 I enjoy contributing beyond individual projects through student technology communities and events.
