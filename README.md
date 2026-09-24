@@ -1,76 +1,224 @@
-# Hey There ! Myself Souvik Dutta
+<div align="center">
 
-🎓 I'm a passionate **Computer Science student** and **developer** exploring the exciting worlds of **Artificial Intelligence** and **Software Development**.  
+# Hi, I'm Souvik Dutta 👋
 
-💡 I love to code, debug, and solve problems — sometimes even in my own projects 😆. Every bug I fix teaches me something new and helps me grow as a developer.  
+### Computer Science Student • AI & Full-Stack Developer • Robotics Builder
 
-🌱 My goal is to create **meaningful projects** that make people’s day-to-day lives easier and more convenient.  
-I believe no one is perfect (including me 😅), but I’m always ready to **learn, adapt, and improve**.  
+I build **AI-powered applications, full-stack systems, and hardware projects** that solve practical problems.
 
----
+I enjoy turning ideas into working products, experimenting with emerging technologies, and continuously improving my engineering skills.
 
-## 🧠 Interests & Focus
-- 🤖 Artificial Intelligence  
-- 🔧 Robotics  
-- 💻 Full-Stack Software Development  
-- ⚙️ Open Source Contribution  
+<p>
+  <a href="https://github.com/s7d4007">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/souvikdutta7">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://s7d4007.github.io/souvik-dutta-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
----
-
-<!-- Typing animation using GitHub-supported GIF -->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Always+Learning+%F0%9F%92%BB;Building+Meaningful+Projects+%F0%9F%9A%80;Exploring+AI+and+Robotics+%F0%9F%9A%96&font=Fira+Code&pause=1000&color=00FF00&width=600&height=50)
-
----
-
-## 🛠️ Tech Stack & Languages
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-F7DF1E?style=for-the-badge&logo=java&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-512BD4?style=for-the-badge&logo=visual-studio&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/-PL%2FSQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-
-![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-FF8C00?style=for-the-badge&logo=powerbi&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
-![Artificial Intelligence](https://img.shields.io/badge/-AI-6C63FF?style=for-the-badge&logo=openai&logoColor=white)
-![Gradio](https://img.shields.io/badge/-Gradio-FF6F61?style=for-the-badge&logo=gradio&logoColor=white)
-![SEO](https://img.shields.io/badge/-SEO-4285F4?style=for-the-badge&logo=google&logoColor=white)
+</div>
 
 ---
 
-## ✨ Motivation / Philosophy
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Keep+Learning+and+Growing+%F0%9F%92%BB;Every+Line+of+Code+Matters+%F0%9F%92%AA;Open+to+Collaboration+%F0%9F%91%8D&font=Fira+Code&pause=1000&color=FF69B4&width=600&height=50)
+## 👨‍💻 About Me
+
+* 🎓 Computer Science student with a strong interest in **AI, software development, and robotics**
+* 🤖 Interested in building practical systems that combine **software + hardware**
+* 🧠 Exploring **Generative AI, RAG, LangChain, LangGraph, and AI application development**
+* 🌐 Experienced with **web development, APIs, databases, and application deployment**
+* 🛠️ Enjoy working on projects that solve real-world problems
+* 🚀 Currently focused on improving my **DSA, system building, AI, and software engineering** skills
 
 ---
 
-## 🤝 Open Source Contribution
-![Open Source](https://img.shields.io/badge/Open%20to-OSS%20Contributions-green?style=for-the-badge&logo=github)
+## 🚀 What I Build
+
+### 🤖 Artificial Intelligence
+
+AI-powered applications, intelligent assistants, RAG systems, and practical ML solutions.
+
+### 🌐 Full-Stack Applications
+
+Modern web applications using React, JavaScript/TypeScript, APIs, databases, and backend frameworks.
+
+### 🔧 Robotics & Embedded Systems
+
+Arduino and ESP32-based systems involving sensors, automation, control, and IoT.
+
+### 💡 Problem-Solving Projects
+
+Software projects designed around practical problems encountered in education, agriculture, campus management, and everyday workflows.
 
 ---
 
+## 🧠 Currently Learning
+
+```text
+Generative AI
+RAG & AI Application Development
+LangChain
+LangGraph
+n8n & Automation
+Advanced React
+Backend & API Development
+Data Structures & Algorithms
+```
+
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/souvikdutta7)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox)](https://s7d4007.github.io/souvik-dutta-portfolio/)
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts,kotlin" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" />
+</p>
+
+### Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,flask" />
+</p>
+
+### Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,supabase" />
+</p>
+
+### AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+### Hardware & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,git,github,vscode,postman" />
+</p>
 
 ---
 
-⭐ *"Learning never stops — every line of code is a step toward progress."*  
+## ⭐ Featured Projects
 
-![Profile Views](https://komarev.com/ghpvc/?username=s7d4007&color=blue&style=flat-square)
+### 🌾 AgriSahayak
 
+A practical agricultural platform focused on making useful digital tools and information more accessible to farmers.
+
+**Focus:** AI • Web Development • APIs • Agriculture
+
+---
+
+### 🏫 Campus Complaint Tracker
+
+A digital system designed to make campus complaint submission and tracking more organized and transparent.
+
+**Focus:** Web Development • Database • Problem Solving
+
+---
+
+### 🤖 Robotics Projects
+
+A collection of Arduino and ESP32-based projects involving automation, sensors, motion control, and IoT.
+
+**Examples:** Obstacle Avoiding Robot • Line Follower • Motion Control • Smart Systems
+
+---
+
+### 💻 Souvik Dutta Portfolio
+
+My personal developer portfolio showcasing my projects, technical skills, experience, and work.
+
+**Portfolio:**
+https://s7d4007.github.io/souvik-dutta-portfolio/
+
+---
+
+## 🏆 Achievements
+
+* 🥇 Won **1st Prize** in an intra-college competition with my Fire Alarm System project
+* 💻 Built multiple software and hardware projects using Arduino and ESP32
+* 🚀 Participated in hackathons and technology-focused college events
+* 👨‍💻 Actively involved in technical communities and student-led technology initiatives
+
+---
+
+## 👥 Community & Leadership
+
+I enjoy contributing beyond individual projects through student technology communities and events.
+
+**Current / Recent Responsibilities**
+
+* **Coordinator, Computer Society of India (CSI), Mumbai Chapter, BKBCK**
+* **Coordinator, TechKshetra (College Technical Club)**
+* Technical event organization and hackathon coordination
+* Team coordination across technical and non-technical event activities
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=s7d4007&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 💭 My Approach
+
+> **Build. Break. Learn. Improve. Repeat.**
+
+I believe the fastest way to learn technology is to **build with it**.
+
+Every project gives me something new to understand, debug, optimize, and improve.
+
+---
+
+## 🤝 Open to
+
+* Collaboration on interesting software and AI projects
+* Open-source contributions
+* Hackathons and technical events
+* Learning from other developers
+* Opportunities to build useful technology
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/souvikdutta7">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://s7d4007.github.io/souvik-dutta-portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/s7d4007">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### Thanks for visiting my profile! 🚀
+
+</div>
