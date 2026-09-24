@@ -169,7 +169,6 @@ https://s7d4007.github.io/souvik-dutta-portfolio/
 </tr>
 </table>
 
-<br>
 ---
 
 ## 👥 Community & Leadership
